@@ -18,7 +18,7 @@ prompt_template = PromptTemplate(
 
     {code}
 
-    ** test **
+    ** testw **
     ** test **
 
     **请务必按照以下格式给出评分和理由：**
