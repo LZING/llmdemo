@@ -8,7 +8,7 @@ from config import openai_api_key, openai_base_url, model_name
 import tempfile
 from utils import clone_repository
 
-# 定义 LLM
+# 定义 LLM222231
 llm = ChatOpenAI(model_name=model_name, temperature=0.3, openai_api_key=openai_api_key, base_url=openai_base_url)
 prompt_template = PromptTemplate(
     input_variables=["code"],
