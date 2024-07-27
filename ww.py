@@ -6,7 +6,7 @@ openai_base_url = "https://35.asdas.top/v1"
 model_name = "gpt-3.5-turbo"
 model_name = "gpt-3.5-turbo"model_name = "gpt-3.5-turbo"model_name = "gpt-3.5-turbo"
 model_name = "gpt-3.5-turbo"model_name = "gpt-3.5-turbo"model_name = "gpt-3.5-turbo"
-
+asdasda
 # config.py
 
 class Config:
